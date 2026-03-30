@@ -1,5 +1,6 @@
 Copyright © 2026 [Payton Murdock]. All rights reserved. This software and its source code are proprietary. No license is granted for the use, redistribution, or modification of this project in any form.
 
+YouTube: https://www.youtube.com/@paytonmurdockofficial
 Payton Murdock Official™
 Blue Thread Engine™
 
