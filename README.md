@@ -10,45 +10,32 @@ The full text of the zlib license for raylib is available on the official raylib
 https://www.raylib.com/license.html
 
 
+This document serves as a formal declaration regarding the ownership, brand identity, and exclusive usage rights for the following properties.
+1. GldPyxis Engine (Integration & Architecture)
+The GldPyxis Engine is a proprietary software framework developed and owned exclusively by Payton Murdock.
+Framework & Components: While GldPyxis utilizes the raylib library as its foundational graphics framework, the specific engine architecture, custom wrappers, integrated tools, and unique logic systems that constitute "GldPyxis" are the intellectual property of Payton Murdock.
 
+Attribution: In accordance with the zlib/libpng license, the original raylib software is acknowledged as a third-party component. This statement does not claim ownership of the raylib library itself, but strictly the GldPyxis engine built upon it.
 
+3. Digital Identity & Branding
+The names and digital personas Payton Murdock and Payton Murdock Official are the sole professional identities of the owner. All software, tools, and creative media released under these monikers are protected.
 
+4. Usage & Restriction Notice
+Except where otherwise noted (such as the underlying open-source licenses for specific libraries), no part of the GldPyxis engine or its associated development tools may be:
+Copied, redistributed, or "re-branded" by any third party.
+Utilized in any commercial or private capacity without express written permission.
+Misrepresented as the work of any individual or entity other than Payton Murdock.
+This document serves as a formal public record of the digital assets and intellectual property belonging to Payton Camden Murdock.
 
-Official Rights & Ownership Declaration
-Item Name: GldPyxis Engine Brand Identity and Development Record
-Creator: Payton Murdock (Payton Murdock Official)
-Date of First Public Use: March 30, 2026
+1. Purpose of Archival
+The registration and upload of this statement, along with associated metadata, to Archive.org (The Internet Archive) is performed specifically to establish a permanent, third-party timestamped record. This serves as Proof of First Use for:
 
-1. Statement of Ownership
-All materials included in this upload—including but not limited to the GldPyxis Engine™ name, the stylized gold vessel brand mark (logo), software screenshots, and development logs—are the exclusive intellectual property of Payton Murdock.
+The GldPyxis Engine (including its architecture and proprietary codebase).
 
-2. Trademark Claim
-Notice is hereby given that GldPyxis™ and GldPyxis Engine™ are claimed as common law trademarks in the United States and internationally. This claim is established by the "First to Use" principle in the fields of game engines, 3D rendering software, and interactive media tools.
+The Payton Murdock Official™ brand and digital identity.
 
-3. Copyright Notice
-Copyright © 2026 Payton Murdock. All Rights Reserved.
-No part of this brand identity or the associated digital assets may be copied, redistributed, or used for commercial purposes without the express written consent of Payton Murdock. This archival record serves as a permanent, timestamped proof of authorship and brand origin.
+2. Verification of Existence
+By archiving these records, the owner establishes a definitive timeline of creation and public assertion of rights. This archival record is intended to prevent future trademark or copyright disputes by providing verifiable evidence that these names, software, and tools existed and were in active use by Payton Murdock as of the date of the upload timestamp.
 
-4. Purpose of Archive
-This upload is intended to provide a timeline of the creation and public deployment of the GldPyxis brand. Any subsequent attempt by third parties to register or use a confusingly similar mark is a violation of prior use rights established by this record.
-
-
-
-
-Official Intellectual Property & Brand Declaration
-Brand Name: Payton Murdock Official™
-Legal Owner/Creator: Payton Murdock
-Established Jurisdictions: Digital Media, Music Production, Game Development, 3D LookDev, and Visual Arts.
-
-1. Brand Identity Notice
-Payton Murdock Official™ is the exclusive professional brand and trademark of the creator, Payton Murdock. This brand serves as the official entity for all commercial and creative output, including software engineering, music composition, and digital artistry.
-
-2. Trademark & Common Law Rights
-Notice is hereby given that Payton Murdock Official™ and all associated logos, slogans, and sub-brands (including but not limited to GldPyxis Engine™ and Gold Thread™) are protected under common law trademark principles. This protection is established through consistent public use, professional attribution, and a verified presence across global platforms including YouTube, GitHub, and industry-standard distribution networks.
-
-3. Comprehensive Copyright Claim
-Copyright © 2026 Payton Murdock. All Rights Reserved.
-All original content released under the "Payton Murdock Official" banner—including source code, musical compositions, 3D shaders, textures, and cinematographic works—is the protected property of the creator. Unauthorized re-uploading, "white-labeling," or AI training on these proprietary assets without an express licensing agreement is strictly prohibited.
-
-4. Archival Verification
-This record is timestamped proof of brand existence and prior use. This document serves as legal notice to all parties that any confusingly similar use of the "Payton Murdock" name or "GldPyxis" marks in a professional capacity will be contested to the full extent of the law.
+3. Irrevocable Record
+This text is a non-perishable declaration. Any subsequent attempt by third parties to claim ownership or usage rights of the GldPyxis Engine or Payton Murdock Official will be contested using this timestamped entry as primary evidence of prior ownership.
