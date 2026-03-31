@@ -30,7 +30,7 @@ Copyright © 2026 Payton Murdock. All Rights Reserved.
 No part of this brand identity or the associated digital assets may be copied, redistributed, or used for commercial purposes without the express written consent of Payton Murdock. This archival record serves as a permanent, timestamped proof of authorship and brand origin.
 
 4. Purpose of Archive
-This upload is intended to provide a third-party-verified timeline of the creation and public deployment of the GldPyxis brand. Any subsequent attempt by third parties to register or use a confusingly similar mark is a violation of prior use rights established by this record.
+This upload is intended to provide a timeline of the creation and public deployment of the GldPyxis brand. Any subsequent attempt by third parties to register or use a confusingly similar mark is a violation of prior use rights established by this record.
 
 
 
@@ -51,4 +51,4 @@ Copyright © 2026 Payton Murdock. All Rights Reserved.
 All original content released under the "Payton Murdock Official" banner—including source code, musical compositions, 3D shaders, textures, and cinematographic works—is the protected property of the creator. Unauthorized re-uploading, "white-labeling," or AI training on these proprietary assets without an express licensing agreement is strictly prohibited.
 
 4. Archival Verification
-This record is maintained by Archive.org to provide an immutable, timestamped proof of brand existence and prior use. This document serves as legal notice to all parties that any confusingly similar use of the "Payton Murdock" name or "GldPyxis" marks in a professional capacity will be contested to the full extent of the law.
+This record is timestamped proof of brand existence and prior use. This document serves as legal notice to all parties that any confusingly similar use of the "Payton Murdock" name or "GldPyxis" marks in a professional capacity will be contested to the full extent of the law.
